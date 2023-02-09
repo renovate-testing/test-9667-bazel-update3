@@ -1,6 +1,5 @@
 go_repository(
-	name = "com_github_google_uuid",
-	importpath = "github.com/google/uuid",
-	tag = "v0.0.0"
-	commit = "dec09d789f3dba190787f8b4454c7d3c936fed9e"
+	name = "gouuid",
+	importpath = "github.com/nu7hatch/gouuid",
+	commit = "6e5ed275033ca6ae44415b3fc7eaf5cd019ec30a"
 )
